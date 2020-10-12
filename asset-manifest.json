@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/SoumyadeepB/portfolio/static/css/main.d64e15be.chunk.css",
+    "main.js": "/SoumyadeepB/portfolio/static/js/main.d2099b69.chunk.js",
+    "main.js.map": "/SoumyadeepB/portfolio/static/js/main.d2099b69.chunk.js.map",
+    "runtime-main.js": "/SoumyadeepB/portfolio/static/js/runtime-main.3df38eba.js",
+    "runtime-main.js.map": "/SoumyadeepB/portfolio/static/js/runtime-main.3df38eba.js.map",
+    "static/css/2.449fc264.chunk.css": "/SoumyadeepB/portfolio/static/css/2.449fc264.chunk.css",
+    "static/js/2.a5d5ff46.chunk.js": "/SoumyadeepB/portfolio/static/js/2.a5d5ff46.chunk.js",
+    "static/js/2.a5d5ff46.chunk.js.map": "/SoumyadeepB/portfolio/static/js/2.a5d5ff46.chunk.js.map",
+    "index.html": "/SoumyadeepB/portfolio/index.html",
+    "precache-manifest.30f93dd0e1ea8e3740cd15d67f90867e.js": "/SoumyadeepB/portfolio/precache-manifest.30f93dd0e1ea8e3740cd15d67f90867e.js",
+    "service-worker.js": "/SoumyadeepB/portfolio/service-worker.js",
+    "static/css/2.449fc264.chunk.css.map": "/SoumyadeepB/portfolio/static/css/2.449fc264.chunk.css.map",
+    "static/css/main.d64e15be.chunk.css.map": "/SoumyadeepB/portfolio/static/css/main.d64e15be.chunk.css.map",
+    "static/js/2.a5d5ff46.chunk.js.LICENSE.txt": "/SoumyadeepB/portfolio/static/js/2.a5d5ff46.chunk.js.LICENSE.txt",
+    "static/media/GitHub.jpg": "/SoumyadeepB/portfolio/static/media/GitHub.252c98b8.jpg",
+    "static/media/index.css": "/SoumyadeepB/portfolio/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3df38eba.js",
+    "static/css/2.449fc264.chunk.css",
+    "static/js/2.a5d5ff46.chunk.js",
+    "static/css/main.d64e15be.chunk.css",
+    "static/js/main.d2099b69.chunk.js"
+  ]
+}
