@@ -1,0 +1,29 @@
+.edu1 {
+  margin-left: 1em;
+  border-left: 6px solid;
+  border-color: darkblue;
+}
+
+.edu2 {
+  margin-top: 2em;
+  margin-left: 1.7em;
+  padding-left: 6px;
+  border-left: 6px solid;
+  border-color: blue;
+}
+.edu3 {
+  margin-top: 2em;
+  margin-left: 2.4em;
+  padding-left: 6px;
+  border-left: 6px solid;
+  border-color: rgb(0, 153, 255);
+}
+
+/* University logos */
+.logo {
+  height: 100%;
+  width: 10em;
+}
+h1 {
+  font-size: 2.1em !important;
+}
